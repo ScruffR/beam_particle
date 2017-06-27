@@ -19,6 +19,8 @@ Replaced "copy-paste" logic with functional blocks by use of arrays and loops
 
 ===========================================================================
 */
+#include <Particle.h>
+
 #define MAXFRAME 36
 #define SPACE     3
 #define KERNING   1
